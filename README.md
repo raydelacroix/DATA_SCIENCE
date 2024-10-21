@@ -28,4 +28,4 @@ Assurez-vous d'avoir les bibliothèques suivantes installées :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/nom_du_depot.git
+   [git clone https://github.com/votre_nom_utilisateur/nom_du_depot.git](https://github.com/raydelacroix/DATA_SCIENCE_technique_de_reduction_de_dimension_en_ML.git)
